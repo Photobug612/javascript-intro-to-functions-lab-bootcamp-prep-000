@@ -35,5 +35,6 @@ mixedCase.toUpperCase() === mixedCase // false
 var a = string
 
 function sayHiToGrandma(string) {
+  var a = string 
   
 }
