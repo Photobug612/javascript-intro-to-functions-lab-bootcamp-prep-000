@@ -33,6 +33,7 @@ mixedCase.toLowerCase() === mixedCase // false
 mixedCase.toUpperCase() === mixedCase // false
 
 function sayHiToGrandma(string) {
+    if ((string) === lowercase)
     if ((string) === uppercase) 
     return ("YES INDEED!") 
     else if ((string) === 'I love you, Grandma.')
