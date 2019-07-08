@@ -37,4 +37,5 @@ var a = string
 function sayHiToGrandma(string) {
   var a = string 
   if (a.toLowerCase() = a)
+  return "I can\'t hear you"
 }
