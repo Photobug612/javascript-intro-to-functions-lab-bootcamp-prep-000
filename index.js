@@ -32,7 +32,7 @@ mixedCase.toLowerCase() === mixedCase // false
  
 mixedCase.toUpperCase() === mixedCase // false
 
-var = a
+var = a = string
 
 function sayHiToGrandma(string) {
     if (string === lowercase)
